@@ -35,6 +35,7 @@ This project is using waf buildsystem. If you have waf-related questions look ht
 - dxvk-native support
 - Elbrus port
 - Bink audio support( for video_bink )
+- video_bink implementation
 
 # How to Build?
 - [Building instructions(EN)](https://github.com/nillerusr/source-engine/wiki/Source-Engine-(EN))
